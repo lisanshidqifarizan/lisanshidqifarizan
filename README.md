@@ -6,7 +6,7 @@
 <p align="center">
 
 | Core |
---------
+|------|
 | JavaScript |
 
 - Sebut saja VEO
