@@ -4,6 +4,9 @@
 </p>
 
 <p align="center">
+| Core |
+--------
+| JavaScript |
 
 - Sebut saja VEO
 - Usia 20 Tahun
