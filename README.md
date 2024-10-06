@@ -9,11 +9,9 @@
 |------|
 | JavaScript |
 
-- Sebut saja VEO
-- Usia 20 Tahun
-- Saya masih sangat pemula
-- Bukan wibu (gk percaya sih ;v)
 </p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/64e75b13b128dce3cb6f9bb7?variant=dark&roadmaps=full-stack%2Cjavascript%2Cnodejs%2Creact)](https://roadmap.sh)
 
 ---
 
