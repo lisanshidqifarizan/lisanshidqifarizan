@@ -11,7 +11,7 @@
 
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64e75b13b128dce3cb6f9bb7?variant=dark&roadmaps=full-stack%2Cjavascript%2Cnodejs%2Creact)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64e75b13b128dce3cb6f9bb7?variant=dark)](https://roadmap.sh)
 
 ---
 
