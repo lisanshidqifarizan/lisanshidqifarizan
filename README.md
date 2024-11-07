@@ -7,7 +7,7 @@
 
 | Core |
 |------|
-| [!(https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
+| [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
 
 </p>
 
