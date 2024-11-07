@@ -3,11 +3,13 @@
 <img src="https://media.tenor.com/Z9SazAegMbIAAAAd/aurelius467385-yofukashi-no-uta.gif" autoplay/>
 </p>
 
-<p align="center">
+<div align="center">
+
 | Core |
 |------|
-| [![](https://skillicons.dev/icons?i=js)]|
-</p>
+| [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
+
+</div>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64e75b13b128dce3cb6f9bb7?variant=dark&roadmaps=frontend%2Cjavascript%2Cnodejs%2Creact)](https://roadmap.sh)
 
