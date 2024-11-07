@@ -10,6 +10,6 @@
   [![roadmap.sh](https://roadmap.sh/card/wide/64e75b13b128dce3cb6f9bb7?variant=dark&roadmaps=frontend%2Cjavascript%2Cnodejs%2Creact)](https://roadmap.sh)
   [![instagram]("https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")]("https://www.instagram.com/lisan.sf") 
   [![whatsapp]("https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white")]("https://wa.me/6283113810321") 
-  [i[]("https://profile-counter.glitch.me/lisanshidqifarizan/count.svg?")]  />
+  [i[]("https://profile-counter.glitch.me/lisanshidqifarizan/count.svg?")]
 
 </div>
