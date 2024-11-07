@@ -4,11 +4,9 @@
 </p>
 
 <p align="center">
-
 | Core |
 |------|
-| [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
-
+| [![](https://skillicons.dev/icons?i=js)]|
 </p>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64e75b13b128dce3cb6f9bb7?variant=dark&roadmaps=frontend%2Cjavascript%2Cnodejs%2Creact)](https://roadmap.sh)
