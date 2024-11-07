@@ -25,4 +25,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lisanshidqifarizan/lisanshidqifarizan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+
+![snake animation](https://github.com/lisanshidqifarizan/lisanshidqifarizan/blob/output/github-contribution-grid-snake2.svg)
+
+</div>
+
