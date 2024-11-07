@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![snake animation](https://github.com/lisanshidqifarizan/lisanshidqifarizan/blob/output/github-contribution-grid-snake2.svg)
+![](https://github.com/lisanshidqifarizan/lisanshidqifarizan/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
