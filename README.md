@@ -11,7 +11,8 @@
   
   <img href="https://www.instagram.com/lisan.sf" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <img href="https://wa.me/6283113810321" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  <img src="https://profile-counter.glitch.me/lisanshidqifarizan/count.svg?"  />
+  <p>
+    <img src="https://profile-counter.glitch.me/lisanshidqifarizan/count.svg?"  />
+  </p>
 
 </div>
